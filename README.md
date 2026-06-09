@@ -41,6 +41,7 @@ https://github.com/user-attachments/assets/48681030-0134-4599-b3f3-c82531d23178
 ###
 https://github.com/user-attachments/assets/fcf78599-2256-4c87-85c8-c0b0645218c5
 ## 🛠️ Blueprints
+
 # BP_BotSpawner
 <img width="1908" height="1024" alt="Image" src="https://github.com/user-attachments/assets/03dac6e4-0ec6-47c3-94bb-d9461fc9035e" />
 
@@ -48,5 +49,17 @@ https://github.com/user-attachments/assets/fcf78599-2256-4c87-85c8-c0b0645218c5
 <img width="1915" height="1029" alt="Image" src="https://github.com/user-attachments/assets/ca28b033-cecb-43e0-bb06-f505e01a0583" />
 
 ### BP_Drone video preview
-https://github.com/user-attachments/assets/fa6b465f-f7d8-4e9a-8243-c95c811ce9c8
+https://github.com/user-attachments/assets/1cffde82-84c3-4b68-b4bb-1eb3be358e41
+
+# BP_BotPawn
+<img width="1915" height="1027" alt="Image" src="https://github.com/user-attachments/assets/44bc2748-7b1c-442b-998d-9ac7849c776a" />
+
+### Input Mapping Context
+<img width="2554" height="1387" alt="Image" src="https://github.com/user-attachments/assets/71440b37-4380-4e03-8f8f-7485aba18259" />
+
+### Adding Input Mapping Context and Crosshair widget
+<img width="1917" height="1029" alt="Image" src="https://github.com/user-attachments/assets/1e627991-bfa6-4f55-8c86-8c8ebdaf2f39" />
+
+
+
 
