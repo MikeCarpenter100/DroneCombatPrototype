@@ -60,6 +60,11 @@ https://github.com/user-attachments/assets/1cffde82-84c3-4b68-b4bb-1eb3be358e41
 ### Adding Input Mapping Context and Crosshair widget
 <img width="1917" height="1029" alt="Image" src="https://github.com/user-attachments/assets/1e627991-bfa6-4f55-8c86-8c8ebdaf2f39" />
 
+## Mouse and keyboard BP_BotPawn input
+https://github.com/user-attachments/assets/d794edeb-24c2-45be-9b99-956f2ad6b2fa
+
+## Marking a target for shooting
+https://github.com/user-attachments/assets/7fc1e056-7529-4a0f-8710-bbb1144d431c
 
 
 
